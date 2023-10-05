@@ -1,0 +1,38 @@
+{
+    "enabled": true,
+    "reload": true,
+    "macros": [
+      {
+        "name": "mashing",
+        "trigger": "ButtonX",
+        "steps": [
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0
+          },
+          {
+            "buttons": ["Jump"],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0,
+          },
+          {
+            "buttons": [],
+            "lstick_x": 0,
+            "lstick_y": 0,
+            "rstick_x": 0,
+            "rstick_y": 0.
+          }
+        ]
+      },
